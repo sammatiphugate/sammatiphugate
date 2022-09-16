@@ -1,4 +1,4 @@
-![logo](https://github.com/sammatiphugate/sammatiphugate/blob/main/baner%20dark.png)
+![logo](https://github.com/sammatiphugate/sammatiphugate/blob/main/img%20baner.png?raw=true)
 
 
 
